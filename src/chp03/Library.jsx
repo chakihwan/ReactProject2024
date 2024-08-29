@@ -9,6 +9,7 @@ function Library(props){
             <Book name="처음 만나 리액트" numOfPage={500}/>
         </div>
     )
+
 }
 
 export default Library;
