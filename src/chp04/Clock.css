@@ -1,0 +1,11 @@
+.aa{
+    border-width: 15px;
+    border-style: groove;
+    border-color: cornsilk;
+    background-color: slategray;
+    color: dimgray;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px;
+}

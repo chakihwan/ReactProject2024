@@ -1,9 +1,10 @@
 div{
-    color: #73c3ff;
-    border: 0;
-    padding: 40px 25px;
+    color: #0092ff;
+    border: 15px;
+    padding: 15px 25px;
     display: inline-block;
     text-align: center;
+    background-color: gray;
 }
 .bg-green{
     background-color: green;
