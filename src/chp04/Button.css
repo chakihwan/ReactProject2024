@@ -1,0 +1,23 @@
+div{
+    color: #73c3ff;
+    border: 0;
+    padding: 40px 25px;
+    display: inline-block;
+    text-align: center;
+}
+.bg-green{
+    background-color: green;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-blue{
+    background-color: blue;
+}
+Button{
+    color: #ffffff;
+    border: 0;
+    padding: 40px 25px;
+    display: inline-block;
+    text-align: center;
+}
