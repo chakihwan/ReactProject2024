@@ -3,11 +3,21 @@
 }
 
 .header {
+    /*display: flex;*/
+    /*justify-content: space-between;*/
+    /*align-items: center;*/
+    /*padding: 20px;*/
+    /*border-bottom: 1px solid #eee;*/
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    border-bottom: 1px solid #eee;
+    background-color: #fff; /* 원하는 배경색으로 변경 */
+    padding: 1rem 2rem;
+    position: fixed; /* 화면 상단에 고정 */
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* 다른 요소 위로 표시 */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
 }
 
 .logo {

@@ -42,11 +42,13 @@ import DistanceConverter from "./chp12/distance/DistanceConverter";
 import ProfileCard from "./chp13/ProfileCard";
 import MainPage from "./chp13/ex1/MainPage";
 import AirApp from "./chp13_airbnbHome/AirApp";
+import MainPageApp from "./mainPage_project/mainPageApp";
+import PageApp from "./page_project_02/PageApp";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
     root.render(
         <React.StrictMode>
-            <AirApp/>
+            <PageApp/>
         </React.StrictMode>
     );
 
